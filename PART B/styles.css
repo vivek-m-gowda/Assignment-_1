@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    
+}
+body{ 
+    text-align: center;
+}
+.one{
+    background: rgb(64, 168, 64);
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.singleline{
+    background:white;
+    color: black;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 250px;
+    margin-right:250px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.box-1{
+    width: 280px;
+    height: 200px;
+    padding: 20px;
+    background: rgb(240, 239, 239);
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 5px;
+    border: 5px;
+
+
+}
